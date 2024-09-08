@@ -31,4 +31,4 @@ https://github.com/svaksha/Julia.jl
 
 `julia>]`
 
-`Ctrl-C` to exit
+`Ctrl-C` or backspace to exit

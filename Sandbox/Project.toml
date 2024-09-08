@@ -2,3 +2,6 @@ name = "Sandbox"
 uuid = "7a42eb44-4c7d-48a7-a65e-964e8c04be01"
 authors = ["John Smith <john.smith@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
