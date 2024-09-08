@@ -18,3 +18,17 @@ https://docs.julialang.org/en/v1/
 ## Awesome Julia
 
 https://github.com/svaksha/Julia.jl
+
+### REPL
+
+`julia`
+
+#### exit
+
+`julia>exit()`
+
+#### pck mode
+
+`julia>]`
+
+`Ctrl-C` to exit

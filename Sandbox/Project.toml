@@ -1,0 +1,4 @@
+name = "Sandbox"
+uuid = "7a42eb44-4c7d-48a7-a65e-964e8c04be01"
+authors = ["John Smith <john.smith@gmail.com>"]
+version = "0.1.0"
