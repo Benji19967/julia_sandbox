@@ -1,0 +1,5 @@
+# Julia
+
+## Notes 
+
+`cd docs/`
