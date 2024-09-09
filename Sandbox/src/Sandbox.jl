@@ -2,7 +2,10 @@ module Sandbox
 
 import Random
 
-greet() = print("Hello World!")
+function greet()
+    "Hello World!"
+end
+
 greet_random() = print("Hello ", Random.randstring(8))
 
 end # module Sandbox

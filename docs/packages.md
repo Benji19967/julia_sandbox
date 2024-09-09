@@ -14,3 +14,10 @@
 ## Adding packages
 
 `(@v1.10) pkg> add <pkg1> <pkg2> ...`
+
+## Running tests for a package
+
+https://docs.julialang.org/en/v1/stdlib/Test/#Test.@test
+
+`(@v1.10) pkg> activate .` at the root of the package
+`(<package_name>) pkg> test` 
